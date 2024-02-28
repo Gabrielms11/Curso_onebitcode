@@ -19,4 +19,4 @@ pivot_table = df.pivot_table(
 print(pivot_table)
 
 # 4-Exportando tabela pivô em arquivo excel
-pivot_table.to_excel("data/pivot_table.xlsx", sheet_name="Relatorio")
+pivot_table.to_excel("data/pivot_table.xlsx", sheet_name="Relatório")
